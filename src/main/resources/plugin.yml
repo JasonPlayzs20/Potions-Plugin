@@ -1,0 +1,7 @@
+name: Potions
+version: '${project.version}'
+main: com.jasonx.potions.Main
+api-version: 1.18
+commands:
+  addPot:
+    description: add you to list ;D
